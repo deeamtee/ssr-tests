@@ -1,6 +1,6 @@
 # Bun vs Node - тест SSR
 
-MacOS & Linux:
+### MacOS & Linux:
 
 `npm run start-linux:bun-serve` - запуск Bun.serve uws сервера
 
@@ -10,7 +10,7 @@ MacOS & Linux:
 
 `npm run start-linux:node-http` - запуск Node HTTP сервера
 
-Windows:
+### Windows:
 
 `npm run start:bun-serve` - запуск Bun.serve uws сервера
 
